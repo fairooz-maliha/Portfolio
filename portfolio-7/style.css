@@ -1,0 +1,62 @@
+.logo{width: 40px;
+height: 40px;}
+
+.navbar{background-color: rgb(112, 62, 14) !important;}
+.nav-link{color:  rgb(235, 178, 125) !important;}
+.nav-link:hover{background-color:  rgb(235, 178, 125) !important;
+color: rgb(112, 62, 14) !important ;
+border-radius: 10px;}
+
+
+.carousel-caption{background-color: rgb(235, 178, 125) ;
+color:  rgb(112, 62, 14) ;
+border-radius: 10px;
+margin-bottom: 10vh;}
+
+.heading{background-color:  rgb(112, 62, 14);
+color: rgb(235, 178, 125) ;
+border-radius: 15px;
+padding: 4px;}
+
+.text{color: rgb(112, 62, 14) ;}
+.border{border: 5px solid  rgb(112, 62, 14) !important;}
+
+.section-1{background-color: rgb(235, 178, 125);}
+.section-2{background-image: url(bg.jpg) ;
+background-repeat: no-repeat;
+background-size: cover
+;}
+
+.section-3{background-color: rgb(112, 62, 14)  ;}
+
+
+.card{background-color: rgb(235, 178, 125);
+box-shadow: 0 5px 15px rgba(0, 0, 0, 0.08) !important;}
+.card1{margin-left: 25vh;}
+
+.btn{background-color:  rgb(112, 62, 14);
+color: rgb(235, 178, 125) ;}
+
+footer{ background-color:  rgb(112, 62, 14);
+color: rgb(235, 178, 125) ;}
+
+
+
+.heading1{background-image: url(bg.jpg);
+background-repeat: no-repeat;
+background-size: cover
+;}
+
+.heading2{color: rgb(112, 62, 14);}
+.heading3{color:rgb(235, 178, 125) ;}
+
+.img1{max-width: 70px;
+margin-left: 80vh;}
+.img2{margin-left: 10vh;
+
+margin-top: -12vh;}
+
+.div1{margin-top: 20vh;}
+.box{max-width: 200px;}
+.container1{margin-top: -7vh;
+margin-left: 15vh !important;}
